@@ -1,83 +1,63 @@
-<div align="center">
+### Hi, I'm Lingesh
 
-# Lingesh T
+I build AI systems that ship — LLM applications, RAG pipelines and agents, plus the APIs and interfaces around them.
 
-**AI/ML Engineer · Full-Stack Developer · B.E. AI & ML, Sri Krishna College of Technology**
+Currently an **AI Developer at Home Ideas Technologies**, working on HIT PRO (AI-driven BOQ estimation) and a conversational video assistant. Part-time, I'm an **AI & ML Engineer at Xeve Tech Solutions**, building generative AI workflows for production. Before that, I worked on an LLM research project at **C-DAC**.
 
-Building intelligent, production-grade applications at the intersection of Machine Learning, LLMs, and modern web engineering.
+B.E. Artificial Intelligence & Machine Learning — Sri Krishna College of Technology, 2026.
 
-[Portfolio](https://lingesh.vercel.app) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/lingesh-t-a879b5249/) &nbsp;|&nbsp; [Email](mailto:lingesh3241@gmail.com)
+[lingesh.vercel.app](https://lingesh.vercel.app) · [LinkedIn](https://www.linkedin.com/in/lingesh-t-a879b5249/) · [lingesh3241@gmail.com](mailto:lingesh3241@gmail.com)
 
-<img src="https://komarev.com/ghpvc/?username=lingesh0&label=Profile%20Views&color=2b2b2b&style=flat" alt="Profile views" />
+---
 
-</div>
+#### What I'm working on
 
-<br>
+- Agentic workflows and multi-agent orchestration
+- Retrieval quality — chunking, hybrid search, re-ranking
+- Deploying and monitoring LLM services on the cloud
 
-## About
+#### Selected work
 
-AI/ML and full-stack developer with hands-on experience building and deploying real-world AI applications. Currently working as an **AI Developer Intern at Home Ideas Technologies**, building LLM-powered systems, RAG pipelines, and AI agents. Also engaged part-time as an **AI & ML Engineer at Xeve Tech Solutions**, developing production Generative AI workflows. Previously completed a project internship at **C-DAC** on an LLM-based research project.
+**[Resolve AI](https://resolve-ai-two.vercel.app/)**
+Takes a reported issue, classifies intent, retrieves similar past cases with semantic search and drafts resolution steps.
+<sub>Python · LLMs · Vector search</sub>
 
-Comfortable across the full stack — from training and deploying ML/DL models to shipping REST APIs and responsive frontends. Currently deepening expertise in agentic AI systems, vector search, and cloud-native AI deployment.
+**[ReplyReady](https://replyready.vercel.app/)**
+Reply generator for email and professional messages, with tone control built on structured prompting.
+<sub>FastAPI · React · LLMs</sub>
 
-<br>
+**[DeepVitals](https://github.com/lingesh0/DeepVitals)**
+Estimates vital signs from video without contact, combining spatial and temporal deep learning models.
+<sub>PyTorch · CNN · LSTM · Transformers</sub>
 
-## Technical Skills
+**[Helmet Violation Detection](https://github.com/lingesh0/helmet-violation-prediction)**
+Real-time detection of riders without helmets from traffic footage, with a monitoring dashboard.
+<sub>OpenCV · CNN · Python</sub>
 
-**Machine Learning & AI**
-`Python` `NumPy` `Pandas` `scikit-learn` `TensorFlow` `PyTorch` `Keras` `OpenCV` `LangChain` `RAG` `NLP` `Hugging Face` `Transformers`
+**ReviewShield**
+Chrome extension that flags likely fake product reviews using an on-device model. No data leaves the browser.
+<sub>JavaScript · TensorFlow.js · WASM</sub>
 
-**Web & Backend**
-`FastAPI` `React.js` `Next.js` `Node.js` `Express.js` `Spring Boot` `REST APIs` `Tailwind CSS`
+**[Mark2GPA](https://mark2gpa.vercel.app/)**
+SGPA/CGPA calculator supporting multiple grading schemes, with input validation.
+<sub>Python</sub>
 
-**Databases**
-`MySQL` `PostgreSQL` `MongoDB` `Firebase`
+#### Stack
 
-**Cloud, DevOps & Tools**
-`AWS` `Docker` `Jenkins` `Git` `Vercel` `Netlify` `n8n` `Tableau` `Power BI`
+| | |
+|---|---|
+| **AI / ML** | Python, PyTorch, TensorFlow, scikit-learn, Hugging Face, LangChain, OpenCV |
+| **LLM systems** | RAG, vector databases, prompt design, agents, n8n |
+| **Backend** | FastAPI, Node.js, Express, Spring Boot |
+| **Frontend** | React, Next.js, Tailwind CSS |
+| **Data** | PostgreSQL, MySQL, MongoDB, Firebase |
+| **Infra** | AWS, Docker, Jenkins, Vercel, Git |
 
-<br>
+#### Activity
 
-## Featured Projects
+<img src="https://github-readme-stats.vercel.app/api?username=lingesh0&show_icons=false&hide_border=true&hide_title=true&hide_rank=true&bg_color=00000000&text_color=8b949e" height="140" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lingesh0&layout=compact&hide_border=true&hide_title=true&bg_color=00000000&text_color=8b949e" height="140" alt="Top languages" />
 
-| Project | Description | Stack |
-|---|---|---|
-| **[Resolve AI](https://resolve-ai-two.vercel.app/)** | LLM-driven system that analyzes reported issues and generates automated resolution steps using semantic search and intent classification | Python, LLMs, Vector Search |
-| **[ReplyReady](https://replyready.vercel.app/)** | AI-powered smart reply generator for email and professional messaging with multi-tone prompt engineering | Python, NLP, LLMs, FastAPI, React |
-| **AI-Powered Task Management App** | Full-stack productivity app with natural-language task creation, AI suggestions, and voice-to-task input | React, FastAPI, PostgreSQL, Firebase |
-| **[Helmet Violation Detection](https://github.com/lingesh0/helmet-violation-prediction)** | CNN-based computer vision system for real-time helmet violation detection with a monitoring dashboard | Python, OpenCV, Deep Learning |
-| **[DeepVitals](https://github.com/lingesh0/DeepVitals)** | Non-invasive vital sign prediction using multi-modal temporal and spatial deep learning architectures | CNN, LSTM, Transformers |
-| **[Mark2GPA](https://mark2gpa.vercel.app/)** | AI-powered SGPA/CGPA calculator supporting multiple grading systems with automated validation | Python, AI Logic |
-| **ReviewShield** | Chrome extension detecting fake product reviews via on-device sentiment analysis — no external APIs | JavaScript, TensorFlow.js, WASM |
+---
 
-<br>
-
-## GitHub Statistics
-
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=lingesh0&show_icons=true&theme=default&hide_border=true&title_color=2b2b2b&text_color=333333&icon_color=555555" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lingesh0&layout=compact&theme=default&hide_border=true&title_color=2b2b2b&text_color=333333" alt="Top languages" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lingesh0&theme=default&hide_border=true&background=FFFFFF&ring=2b2b2b&fire=2b2b2b" alt="GitHub streak" />
-</p>
-
-<br>
-
-## Certifications
-
-- Fundamentals of Artificial Intelligence — NPTEL
-- Python for Data Science — NPTEL
-- Fundamentals of Entrepreneurship — NPTEL
-- Fundamentals of Networking — Cisco
-
-<br>
-
-## Connect
-
-<p>
-<a href="https://www.linkedin.com/in/lingesh-t-a879b5249/">LinkedIn</a> &nbsp;·&nbsp;
-<a href="mailto:lingesh3241@gmail.com">Email</a> &nbsp;·&nbsp;
-<a href="https://lingesh.vercel.app">Portfolio</a>
-</p>
+<sub>Open to collaborating on applied AI and LLM tooling. The fastest way to reach me is email.</sub>
