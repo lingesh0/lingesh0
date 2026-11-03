@@ -18,28 +18,28 @@ B.E. Artificial Intelligence & Machine Learning — Sri Krishna College of Techn
 
 #### Selected work
 
-**[Resolve AI](https://resolve-ai-two.vercel.app/)**
-Takes a reported issue, classifies intent, retrieves similar past cases with semantic search and drafts resolution steps.
+**[Resolve AI](https://resolve-ai-two.vercel.app/)**<br>
+Takes a reported issue, classifies intent, retrieves similar past cases with semantic search and drafts resolution steps.<br>
 <sub>Python · LLMs · Vector search</sub>
 
-**[ReplyReady](https://replyready.vercel.app/)**
-Reply generator for email and professional messages, with tone control built on structured prompting.
+**[ReplyReady](https://replyready.vercel.app/)**<br>
+Reply generator for email and professional messages, with tone control built on structured prompting.<br>
 <sub>FastAPI · React · LLMs</sub>
 
-**[DeepVitals](https://github.com/lingesh0/DeepVitals)**
-Estimates vital signs from video without contact, combining spatial and temporal deep learning models.
+**[DeepVitals](https://github.com/lingesh0/DeepVitals)**<br>
+Estimates vital signs from video without contact, combining spatial and temporal deep learning models.<br>
 <sub>PyTorch · CNN · LSTM · Transformers</sub>
 
-**[Helmet Violation Detection](https://github.com/lingesh0/helmet-violation-prediction)**
-Real-time detection of riders without helmets from traffic footage, with a monitoring dashboard.
+**[Helmet Violation Detection](https://github.com/lingesh0/helmet-violation-prediction)**<br>
+Real-time detection of riders without helmets from traffic footage, with a monitoring dashboard.<br>
 <sub>OpenCV · CNN · Python</sub>
 
-**ReviewShield**
-Chrome extension that flags likely fake product reviews using an on-device model. No data leaves the browser.
+**ReviewShield**<br>
+Chrome extension that flags likely fake product reviews using an on-device model. No data leaves the browser.<br>
 <sub>JavaScript · TensorFlow.js · WASM</sub>
 
-**[Mark2GPA](https://mark2gpa.vercel.app/)**
-SGPA/CGPA calculator supporting multiple grading schemes, with input validation.
+**[Mark2GPA](https://mark2gpa.vercel.app/)**<br>
+SGPA/CGPA calculator supporting multiple grading schemes, with input validation.<br>
 <sub>Python</sub>
 
 #### Stack
@@ -55,8 +55,8 @@ SGPA/CGPA calculator supporting multiple grading schemes, with input validation.
 
 #### Activity
 
-<img src="https://github-readme-stats.vercel.app/api?username=lingesh0&show_icons=false&hide_border=true&hide_title=true&hide_rank=true&bg_color=00000000&text_color=8b949e" height="140" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lingesh0&layout=compact&hide_border=true&hide_title=true&bg_color=00000000&text_color=8b949e" height="140" alt="Top languages" />
+<img src="./profile-summary-card-output/transparent/3-stats.svg" height="160" alt="GitHub stats" />
+<img src="./profile-summary-card-output/transparent/2-most-commit-language.svg" height="160" alt="Most used languages" />
 
 ---
 
